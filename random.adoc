@@ -1,0 +1,5 @@
+== Scenario-driven planning work item types
+Scenario-driven planning uses the following work item types in its development workflow:
+
+=== Portfolio
+The Portfolio work item group type comprises a group of Scenario, Fundamental, and Papercut type of work items within a working space. The management team identifies these work items and splits each of them into Value-Propositions and Experiences to realize them.
